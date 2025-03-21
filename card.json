@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Search Engine Optimisation",
+    "image": "./1.png",
+    "appear": 0
+  },
+  {
+    "id": 2,
+    "title": "Pay per click advertisement",
+    "image": "./2.jpg",
+    "appear": 1
+  },
+  {
+    "id": 3,
+    "title": "Social media marketing",
+    "image": "./3.png",
+    "appear": 1
+  },
+  {
+    "id": 4,
+    "title": "E-mail marketing",
+    "image": "./4.png",
+    "appear": 0
+  }
+]
